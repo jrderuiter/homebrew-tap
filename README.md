@@ -5,8 +5,10 @@ related to bioinformatics.
 
 ## Usage
 
+```
 brew tap jderuiter/tap
 brew install subread
+```
 
 ## Formulas
 
